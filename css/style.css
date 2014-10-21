@@ -1,0 +1,32 @@
+		.header{
+			margin-bottom:20px;
+			border-bottom:3px solid #f2f2f2;
+			overflow:hidden;
+		}
+		.portfolio{
+			text-align:center;
+			margin-bottom:40px;
+		}
+		.logo{
+			float:left;
+		}
+		.logo img{
+			zoom:25%;
+		}
+		.name{
+			float:right;
+			margin-right: 30px;
+			text-align:right;
+		}
+		.featured-text{
+			margin-left:15px;
+			margin-bottom: 40px;
+		}
+		.featured-work{
+			text-align:center;
+		}
+		.hero{
+			max-height:500px;
+			overflow:hidden;
+		}
+
